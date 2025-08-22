@@ -8,5 +8,5 @@ Hi, I'm Sebastián! 👋 My main profession is software development, but I like 
 #### 🤔 Random things about me
 - I made my first website in the 2000s when I was 10-11 years old, using [FrontPage](https://en.wikipedia.org/wiki/Microsoft_FrontPage) and [GeoCities](https://en.wikipedia.org/wiki/GeoCities), and it was about [Dragon Ball Z](https://www.youtube.com/watch?v=loVzCHOz88Y).
 - I can't stop my mind when it comes to creating things.
-- I'm an enthusiastic of [pixel-art and game design](https://taikuhan.itch.io).
+- I'm an enthusiastic of [pixel-art and game design](https://arzevastian.itch.io).
 - My favorite videogame is [Commandos](https://www.youtube.com/watch?v=1I4D2KBQMCo).
